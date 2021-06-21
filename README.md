@@ -6,6 +6,10 @@ mi propia configuración de fish sin el uso de oh-my-fish en Arch Linux
 **fish**<br />
 Arch<br />
 `sudo pacman -S fish`<br />
+Debian<br />
+`sudo apt install fish`<br />
+Arch<br />
+`sudo dnf install fish`<br />
 
 ## Instalacion
 Mi configuracion esta creada para ser utilizada diariamente y ser facilmente modificable dado que todos los cambios se llevan a cabo en el mismo archivo.<br />
